@@ -27,7 +27,7 @@ body {
 }
 
 .game-over {
-  background-color: red;
+  background: linear-gradient(-45deg, #ff0909, #ff0303, #ff0606, #fb1010);
   opacity: 0.8;
 }
 
